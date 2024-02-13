@@ -16,6 +16,6 @@ Mail-book is based on a singly linked list. Mail book has four functions. The fi
 ### Maze Runner Game using Tree
 We have made a game using the foundation as a binary tree. The game's name is "Maze Runner". It is a multiplayer game. A maze is generated which has an exit point at a certain node. The player who reaches the exit node in the minimum number of steps wins the game. The maze also has dead ends and the game ends if a player reaches there. The winner is displayed in a .txt file using file handling and the layout of the maze is also displayed.
 
-### Traveling Salesman Project
+### Traveling Salesman Problem
 The traveling salesman problem (also known as the TSP) asks, "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?"
 The solution to the problem:(solved using graph data structure) To solve the TSP using the Brute-Force method, you must first calculate the total number of routes and then draw and list all of them. Calculate the distance between each route and then select the shortest one—this is the best option.
